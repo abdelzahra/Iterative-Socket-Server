@@ -1,0 +1,1444 @@
+139.62.210.155
+
+javac Client.java
+
+java Client
+
+javac Server.java
+
+java Server
+
+2300 or 3000
+
+--------------------------client program results---------------------(8pm p3000)
+Last login: Fri Nov  8 01:30:48 2024 from 10.0.96.26 
+UNFCSD\n01486820@cisvm-cnt4504a:~$ ls
+ Client.class   Client.java  'Client$LongWrapper.class'
+UNFCSD\n01486820@cisvm-cnt4504a:~$ java Client
+Enter server IP address: 139.62.210.155
+Enter port number: 3000
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1: Date and Time: Fri Nov 08 01:34:23 UTC 2024
+Turn-around time for Request 1: 59 ms
+Total Turn-around Time: 59 ms
+Average Turn-around Time: 59.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1:  01:35:37 up 673 days,  4:46,  8 users,  load average: 1.21, 1.36, 1.33
+Turn-around time for Request 1: 20 ms
+Total Turn-around Time: 20 ms
+Average Turn-around Time: 20.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 3 ms
+Total Turn-around Time: 3 ms
+Average Turn-around Time: 3.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 2246 ms
+Total Turn-around Time: 2246 ms
+Average Turn-around Time: 2246.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 2 ms
+Total Turn-around Time: 2 ms
+Average Turn-around Time: 2.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]1
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 40 ms
+Total Turn-around Time: 40 ms
+Average Turn-around Time: 40.0 ms
+
+
+
+
+
+
+
+
+
+
+
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 1: Date and Time: Fri Nov 08 01:43:13 UTC 2024
+Turn-around time for Request 1: 1 ms
+Response for Request 3: Date and Time: Fri Nov 08 01:43:13 UTC 2024
+Turn-around time for Request 3: 4 ms
+Response for Request 4: Date and Time: Fri Nov 08 01:43:13 UTC 2024
+Turn-around time for Request 4: 1 ms
+Response for Request 2: Date and Time: Fri Nov 08 01:43:13 UTC 2024
+Turn-around time for Request 2: 5 ms
+Response for Request 5: Date and Time: Fri Nov 08 01:43:13 UTC 2024
+Turn-around time for Request 5: 1 ms
+Total Turn-around Time: 12 ms
+Average Turn-around Time: 2.4 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 5:  01:43:25 up 673 days,  4:54,  9 users,  load average: 1.41, 1.31, 1.31
+Turn-around time for Request 5: 3 ms
+Response for Request 4:  01:43:25 up 673 days,  4:54,  9 users,  load average: 1.41, 1.31, 1.31
+Turn-around time for Request 4: 6 ms
+Response for Request 2:  01:43:25 up 673 days,  4:54,  9 users,  load average: 1.41, 1.31, 1.31
+Turn-around time for Request 2: 15 ms
+Response for Request 1:  01:43:25 up 673 days,  4:54,  9 users,  load average: 1.41, 1.31, 1.31
+Turn-around time for Request 1: 17 ms
+Response for Request 3:  01:43:25 up 673 days,  4:54,  9 users,  load average: 1.41, 1.31, 1.31
+Turn-around time for Request 3: 19 ms
+Total Turn-around Time: 60 ms
+Average Turn-around Time: 12.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 5 ms
+Response for Request 2:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 2: 8 ms
+Response for Request 3:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 3: 17 ms
+Response for Request 4:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 4: 26 ms
+Response for Request 5:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 5: 35 ms
+Total Turn-around Time: 91 ms
+Average Turn-around Time: 18.2 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 2: Active Internet connections (w/o servers)
+Turn-around time for Request 2: 2396 ms
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 4815 ms
+Response for Request 3: Active Internet connections (w/o servers)
+Turn-around time for Request 3: 8035 ms
+Response for Request 5: Active Internet connections (w/o servers)
+Turn-around time for Request 5: 11220 ms
+Response for Request 4: Active Internet connections (w/o servers)
+Turn-around time for Request 4: 13381 ms
+Total Turn-around Time: 39847 ms
+Average Turn-around Time: 7969.4 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 3 ms
+Response for Request 3: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 3: 4 ms
+Response for Request 2: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 2: 6 ms
+Response for Request 4: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 4: 8 ms
+Response for Request 5: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 5: 8 ms
+Total Turn-around Time: 29 ms
+Average Turn-around Time: 5.8 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]5
+Response for Request 2: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 2: 41 ms
+Response for Request 3: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 3: 67 ms
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 94 ms
+Response for Request 4: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 4: 119 ms
+Response for Request 5: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 5: 144 ms
+Total Turn-around Time: 465 ms
+Average Turn-around Time: 93.0 ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 2: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 2: 1 ms
+Response for Request 3: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 3: 1 ms
+Response for Request 1: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 1: 9 ms
+Response for Request 5: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 5: 8 ms
+Response for Request 4: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 4: 8 ms
+Response for Request 8: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 8: 7 ms
+Response for Request 10: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Response for Request 9: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 9: 10 ms
+Turn-around time for Request 10: 8 ms
+Response for Request 7: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 7: 11 ms
+Response for Request 6: Date and Time: Fri Nov 08 01:45:17 UTC 2024
+Turn-around time for Request 6: 5 ms
+Total Turn-around Time: 68 ms
+Average Turn-around Time: 6.8 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 1:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 1: 5 ms
+Response for Request 2:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 2: 8 ms
+Response for Request 3:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 3: 30 ms
+Response for Request 4:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 4: 35 ms
+Response for Request 5:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 5: 41 ms
+Response for Request 6:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 6: 45 ms
+Response for Request 8:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 8: 49 ms
+Response for Request 7:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 7: 53 ms
+Response for Request 9:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 9: 54 ms
+Response for Request 10:  01:45:22 up 673 days,  4:56, 10 users,  load average: 1.41, 1.37, 1.34
+Turn-around time for Request 10: 55 ms
+Total Turn-around Time: 375 ms
+Average Turn-around Time: 37.5 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 6 ms
+Response for Request 3:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 3: 7 ms
+Response for Request 2:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 2: 10 ms
+Response for Request 5:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 5: 10 ms
+Response for Request 4:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 4: 11 ms
+Response for Request 6:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 6: 12 ms
+Response for Request 7:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 7: 14 ms
+Response for Request 8:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 8: 16 ms
+Response for Request 9:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 9: 17 ms
+Response for Request 10:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 10: 18 ms
+Total Turn-around Time: 121 ms
+Average Turn-around Time: 12.1 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 2: Active Internet connections (w/o servers)
+Turn-around time for Request 2: 2478 ms
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 4603 ms
+Response for Request 3: Active Internet connections (w/o servers)
+Turn-around time for Request 3: 7102 ms
+Response for Request 5: Active Internet connections (w/o servers)
+Turn-around time for Request 5: 9861 ms
+Response for Request 4: Active Internet connections (w/o servers)
+Turn-around time for Request 4: 12289 ms
+Response for Request 6: Active Internet connections (w/o servers)
+Turn-around time for Request 6: 14763 ms
+Response for Request 7: Active Internet connections (w/o servers)
+Turn-around time for Request 7: 17478 ms
+Response for Request 8: Active Internet connections (w/o servers)
+Turn-around time for Request 8: 19800 ms
+Response for Request 9: Active Internet connections (w/o servers)
+Turn-around time for Request 9: 22290 ms
+Response for Request 10: Active Internet connections (w/o servers)
+Turn-around time for Request 10: 24539 ms
+Total Turn-around Time: 135203 ms
+Average Turn-around Time: 13520.3 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 4 ms
+Response for Request 2: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 2: 9 ms
+Response for Request 4: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 4: 16 ms
+Response for Request 5: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 5: 20 ms
+Response for Request 3: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 3: 27 ms
+Response for Request 6: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 6: 30 ms
+Response for Request 7: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 7: 34 ms
+Response for Request 8: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 8: 39 ms
+Response for Request 9: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 9: 40 ms
+Response for Request 10: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 10: 41 ms
+Total Turn-around Time: 260 ms
+Average Turn-around Time: 26.0 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]10
+Response for Request 2: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 2: 36 ms
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 69 ms
+Response for Request 3: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 3: 99 ms
+Response for Request 4: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 4: 127 ms
+Response for Request 5: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 5: 162 ms
+Response for Request 6: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 6: 199 ms
+Response for Request 8: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 8: 233 ms
+Response for Request 7: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 7: 262 ms
+Response for Request 10: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 10: 303 ms
+Response for Request 9: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 9: 340 ms
+Total Turn-around Time: 1830 ms
+Average Turn-around Time: 183.0 ms
+
+
+
+
+
+
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 2: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 2: 1 ms
+Response for Request 4: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 1: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 3: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 5: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 6: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 7: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Response for Request 10: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 10: 2 ms
+Response for Request 9: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 9: 3 ms
+Turn-around time for Request 4: 1 ms
+Turn-around time for Request 6: 3 ms
+Turn-around time for Request 5: 2 ms
+Turn-around time for Request 7: 2 ms
+Turn-around time for Request 3: 2 ms
+Response for Request 12: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 12: 2 ms
+Turn-around time for Request 1: 2 ms
+Response for Request 13: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 13: 2 ms
+Response for Request 11: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 11: 3 ms
+Response for Request 8: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 8: 2 ms
+Response for Request 14: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 14: 3 ms
+Response for Request 15: Date and Time: Fri Nov 08 02:10:43 UTC 2024
+Turn-around time for Request 15: 3 ms
+Total Turn-around Time: 33 ms
+Average Turn-around Time: 2.2 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 2:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 2: 4 ms
+Response for Request 1:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 1: 6 ms
+Response for Request 4:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 4: 6 ms
+Response for Request 5:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 5: 8 ms
+Response for Request 3:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 3: 11 ms
+Response for Request 7:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 7: 12 ms
+Response for Request 6:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 6: 14 ms
+Response for Request 8:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 8: 16 ms
+Response for Request 9:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 9: 19 ms
+Response for Request 10:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 10: 21 ms
+Response for Request 11:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 11: 23 ms
+Response for Request 13:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 13: 23 ms
+Response for Request 14:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 14: 25 ms
+Response for Request 12:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 12: 27 ms
+Response for Request 15:  02:10:50 up 673 days,  5:21, 11 users,  load average: 1.31, 1.31, 1.30
+Turn-around time for Request 15: 31 ms
+Total Turn-around Time: 246 ms
+Average Turn-around Time: 16.4 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 2:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 2: 4 ms
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 8 ms
+Response for Request 3:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 3: 9 ms
+Response for Request 4:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 4: 10 ms
+Response for Request 5:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 5: 20 ms
+Response for Request 7:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 7: 23 ms
+Response for Request 8:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 8: 30 ms
+Response for Request 6:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 6: 35 ms
+Response for Request 10:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 10: 40 ms
+Response for Request 9:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 9: 50 ms
+Response for Request 12:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 12: 53 ms
+Response for Request 11:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 11: 58 ms
+Response for Request 13:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 13: 61 ms
+Response for Request 14:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 14: 63 ms
+Response for Request 15:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 15: 64 ms
+Total Turn-around Time: 528 ms
+Average Turn-around Time: 35.2 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 2089 ms
+Response for Request 3: Active Internet connections (w/o servers)
+Turn-around time for Request 3: 4490 ms
+Response for Request 2: Active Internet connections (w/o servers)
+Turn-around time for Request 2: 6609 ms
+Response for Request 4: Active Internet connections (w/o servers)
+Turn-around time for Request 4: 8718 ms
+Response for Request 5: Active Internet connections (w/o servers)
+Turn-around time for Request 5: 10886 ms
+Response for Request 7: Active Internet connections (w/o servers)
+Turn-around time for Request 7: 12978 ms
+Response for Request 6: Active Internet connections (w/o servers)
+Turn-around time for Request 6: 15358 ms
+Response for Request 8: Active Internet connections (w/o servers)
+Turn-around time for Request 8: 17689 ms
+Response for Request 10: Active Internet connections (w/o servers)
+Turn-around time for Request 10: 19928 ms
+Response for Request 9: Active Internet connections (w/o servers)
+Turn-around time for Request 9: 22264 ms
+Response for Request 11: Active Internet connections (w/o servers)
+Turn-around time for Request 11: 24594 ms
+Response for Request 13: Active Internet connections (w/o servers)
+Turn-around time for Request 13: 26891 ms
+Response for Request 12: Active Internet connections (w/o servers)
+Turn-around time for Request 12: 29175 ms
+Response for Request 14: Active Internet connections (w/o servers)
+Turn-around time for Request 14: 31338 ms
+Response for Request 15: Active Internet connections (w/o servers)
+Turn-around time for Request 15: 33564 ms
+Total Turn-around Time: 266571 ms
+Average Turn-around Time: 17771.4 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 3 ms
+Response for Request 2: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 2: 12 ms
+Response for Request 3: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 3: 19 ms
+Response for Request 4: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 4: 25 ms
+Response for Request 6: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 6: 31 ms
+Response for Request 5: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 5: 37 ms
+Response for Request 8: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 8: 44 ms
+Response for Request 7: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 7: 51 ms
+Response for Request 9: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 9: 52 ms
+Response for Request 10: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 10: 54 ms
+Response for Request 11: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 11: 58 ms
+Response for Request 13: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 13: 61 ms
+Response for Request 12: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 12: 65 ms
+Response for Request 14: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 14: 69 ms
+Response for Request 15: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 15: 76 ms
+Total Turn-around Time: 657 ms
+Average Turn-around Time: 43.8 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]15
+Response for Request 2: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 2: 55 ms
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 95 ms
+Response for Request 4: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 4: 141 ms
+Response for Request 3: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 3: 171 ms
+Response for Request 6: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 6: 203 ms
+Response for Request 5: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 5: 235 ms
+Response for Request 7: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 7: 269 ms
+Response for Request 9: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 9: 306 ms
+Response for Request 8: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 8: 340 ms
+Response for Request 10: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 10: 366 ms
+Response for Request 11: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 11: 392 ms
+Response for Request 12: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 12: 417 ms
+Response for Request 14: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 14: 456 ms
+Response for Request 13: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 13: 482 ms
+Response for Request 15: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 15: 507 ms
+Total Turn-around Time: 4435 ms
+Average Turn-around Time: 295.6666666666667 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 1: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 1: 1 ms
+Response for Request 3: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 3: 1 ms
+Response for Request 2: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 2: 6 ms
+Response for Request 5: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 5: 6 ms
+Response for Request 11: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 11: 5 ms
+Response for Request 12: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 12: 5 ms
+Response for Request 13: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 13: 6 ms
+Response for Request 14: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 14: 5 ms
+Response for Request 15: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 15: 5 ms
+Response for Request 16: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 16: 6 ms
+Response for Request 17: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 17: 5 ms
+Response for Request 18: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Response for Request 19: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 19: 7 ms
+Turn-around time for Request 18: 7 ms
+Response for Request 4: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 4: 8 ms
+Response for Request 9: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 9: 8 ms
+Response for Request 10: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 10: 8 ms
+Response for Request 7: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 7: 8 ms
+Response for Request 8: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 8: 8 ms
+Response for Request 6: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 6: 10 ms
+Response for Request 20: Date and Time: Fri Nov 08 02:12:07 UTC 2024
+Turn-around time for Request 20: 6 ms
+Total Turn-around Time: 121 ms
+Average Turn-around Time: 6.05 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 1:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 1: 5 ms
+Response for Request 2:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 2: 5 ms
+Response for Request 3:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 3: 7 ms
+Response for Request 4:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 4: 9 ms
+Response for Request 5:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 5: 10 ms
+Response for Request 6:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 6: 10 ms
+Response for Request 7:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 7: 10 ms
+Response for Request 8:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 8: 12 ms
+Response for Request 9:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 9: 13 ms
+Response for Request 10:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 10: 13 ms
+Response for Request 11:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 11: 14 ms
+Response for Request 12:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 12: 16 ms
+Response for Request 14:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 14: 17 ms
+Response for Request 13:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 13: 18 ms
+Response for Request 15:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 15: 20 ms
+Response for Request 16:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 16: 21 ms
+Response for Request 17:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 17: 23 ms
+Response for Request 18:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 18: 25 ms
+Response for Request 19:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 19: 26 ms
+Response for Request 20:  02:12:12 up 673 days,  5:23, 11 users,  load average: 1.42, 1.38, 1.33
+Turn-around time for Request 20: 27 ms
+Total Turn-around Time: 301 ms
+Average Turn-around Time: 15.05 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 3 ms
+Response for Request 2:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 2: 5 ms
+Response for Request 5:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 5: 7 ms
+Response for Request 3:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 3: 8 ms
+Response for Request 4:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 4: 9 ms
+Response for Request 6:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 6: 9 ms
+Response for Request 8:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 8: 11 ms
+Response for Request 7:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 7: 12 ms
+Response for Request 9:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 9: 14 ms
+Response for Request 10:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 10: 15 ms
+Response for Request 11:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 11: 16 ms
+Response for Request 12:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 12: 17 ms
+Response for Request 14:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 14: 19 ms
+Response for Request 13:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 13: 20 ms
+Response for Request 16:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 16: 22 ms
+Response for Request 15:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 15: 22 ms
+Response for Request 17:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 17: 24 ms
+Response for Request 19:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 19: 26 ms
+Response for Request 18:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 18: 28 ms
+Response for Request 20:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 20: 25 ms
+Total Turn-around Time: 312 ms
+Average Turn-around Time: 15.6 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 2358 ms
+Response for Request 3: Active Internet connections (w/o servers)
+Turn-around time for Request 3: 4486 ms
+Response for Request 2: Active Internet connections (w/o servers)
+Turn-around time for Request 2: 6569 ms
+Response for Request 4: Active Internet connections (w/o servers)
+Turn-around time for Request 4: 8664 ms
+Response for Request 5: Active Internet connections (w/o servers)
+Turn-around time for Request 5: 10918 ms
+Response for Request 7: Active Internet connections (w/o servers)
+Turn-around time for Request 7: 13410 ms
+Response for Request 8: Active Internet connections (w/o servers)
+Turn-around time for Request 8: 15751 ms
+Response for Request 9: Active Internet connections (w/o servers)
+Turn-around time for Request 9: 18022 ms
+Response for Request 6: Active Internet connections (w/o servers)
+Turn-around time for Request 6: 20297 ms
+Response for Request 10: Active Internet connections (w/o servers)
+Turn-around time for Request 10: 22434 ms
+Response for Request 11: Active Internet connections (w/o servers)
+Turn-around time for Request 11: 24720 ms
+Response for Request 12: Active Internet connections (w/o servers)
+Turn-around time for Request 12: 27191 ms
+Response for Request 13: Active Internet connections (w/o servers)
+Turn-around time for Request 13: 29662 ms
+Response for Request 14: Active Internet connections (w/o servers)
+Turn-around time for Request 14: 32066 ms
+Response for Request 16: Active Internet connections (w/o servers)
+Turn-around time for Request 16: 34138 ms
+Response for Request 17: Active Internet connections (w/o servers)
+Turn-around time for Request 17: 36273 ms
+Response for Request 19: Active Internet connections (w/o servers)
+Turn-around time for Request 19: 38445 ms
+Response for Request 18: Active Internet connections (w/o servers)
+Turn-around time for Request 18: 40850 ms
+Response for Request 15: Active Internet connections (w/o servers)
+Turn-around time for Request 15: 43133 ms
+Response for Request 20: Active Internet connections (w/o servers)
+Turn-around time for Request 20: 45258 ms
+Total Turn-around Time: 474645 ms
+Average Turn-around Time: 23732.25 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 2: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 2: 2 ms
+Response for Request 3: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 3: 4 ms
+Response for Request 4: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 4: 5 ms
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 6 ms
+Response for Request 6: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 6: 6 ms
+Response for Request 7: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 7: 7 ms
+Response for Request 5: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 5: 9 ms
+Response for Request 8: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 8: 9 ms
+Response for Request 10: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 10: 9 ms
+Response for Request 9: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 9: 10 ms
+Response for Request 11: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 11: 11 ms
+Response for Request 13: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 13: 12 ms
+Response for Request 12: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 12: 13 ms
+Response for Request 14: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 14: 14 ms
+Response for Request 16: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 16: 14 ms
+Response for Request 18: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 18: 13 ms
+Response for Request 19: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 19: 14 ms
+Response for Request 20: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 20: 16 ms
+Response for Request 15: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 15: 19 ms
+Response for Request 17: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 17: 17 ms
+Total Turn-around Time: 210 ms
+Average Turn-around Time: 10.5 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]20
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 36 ms
+Response for Request 2: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 2: 62 ms
+Response for Request 4: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 4: 88 ms
+Response for Request 3: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 3: 113 ms
+Response for Request 6: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 6: 148 ms
+Response for Request 5: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 5: 197 ms
+Response for Request 7: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 7: 224 ms
+Response for Request 8: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 8: 249 ms
+Response for Request 9: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 9: 275 ms
+Response for Request 10: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 10: 300 ms
+Response for Request 12: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 12: 326 ms
+Response for Request 11: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 11: 351 ms
+Response for Request 14: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 14: 385 ms
+Response for Request 13: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 13: 428 ms
+Response for Request 16: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 16: 486 ms
+Response for Request 15: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 15: 522 ms
+Response for Request 18: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 18: 552 ms
+Response for Request 17: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 17: 577 ms
+Response for Request 20: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 20: 603 ms
+Response for Request 19: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 19: 628 ms
+Total Turn-around Time: 6550 ms
+Average Turn-around Time: 327.5 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 1
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 2: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 2: 1 ms
+Response for Request 1: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 4: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 5: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 3: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 6: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 8: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 7: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 9: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 10: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 11: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 13: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 1: 2 ms
+Turn-around time for Request 10: 2 ms
+Turn-around time for Request 11: 2 ms
+Turn-around time for Request 9: 2 ms
+Response for Request 12: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 12: 10 ms
+Turn-around time for Request 7: 1 ms
+Turn-around time for Request 8: 1 ms
+Turn-around time for Request 6: 2 ms
+Turn-around time for Request 3: 3 ms
+Turn-around time for Request 5: 2 ms
+Turn-around time for Request 4: 2 ms
+Turn-around time for Request 13: 1 ms
+Response for Request 19: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 19: 12 ms
+Response for Request 14: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 14: 12 ms
+Response for Request 20: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 20: 13 ms
+Response for Request 17: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 17: 13 ms
+Response for Request 15: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 15: 13 ms
+Response for Request 18: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 18: 13 ms
+Response for Request 16: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 16: 13 ms
+Response for Request 21: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 21: 13 ms
+Response for Request 22: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Response for Request 25: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 25: 2 ms
+Turn-around time for Request 22: 14 ms
+Response for Request 23: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 23: 14 ms
+Response for Request 24: Date and Time: Fri Nov 08 02:14:06 UTC 2024
+Turn-around time for Request 24: 14 ms
+Total Turn-around Time: 177 ms
+Average Turn-around Time: 7.08 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 2
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 1:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 1: 4 ms
+Response for Request 2:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 2: 6 ms
+Response for Request 3:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 3: 7 ms
+Response for Request 5:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 5: 8 ms
+Response for Request 4:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 4: 10 ms
+Response for Request 6:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 6: 10 ms
+Response for Request 7:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 7: 12 ms
+Response for Request 8:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 8: 13 ms
+Response for Request 9:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 9: 15 ms
+Response for Request 10:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 10: 16 ms
+Response for Request 11:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 11: 18 ms
+Response for Request 12:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 12: 18 ms
+Response for Request 13:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 13: 23 ms
+Response for Request 14:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 14: 26 ms
+Response for Request 15:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 15: 28 ms
+Response for Request 16:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 16: 28 ms
+Response for Request 17:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 17: 30 ms
+Response for Request 18:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 18: 31 ms
+Response for Request 20:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 20: 33 ms
+Response for Request 19:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 19: 34 ms
+Response for Request 21:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 21: 34 ms
+Response for Request 22:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 22: 36 ms
+Response for Request 24:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 24: 38 ms
+Response for Request 23:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 23: 39 ms
+Response for Request 25:  02:14:11 up 673 days,  5:25, 10 users,  load average: 1.51, 1.49, 1.38
+Turn-around time for Request 25: 41 ms
+Total Turn-around Time: 558 ms
+Average Turn-around Time: 22.32 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 3
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 1:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 1: 3 ms
+Response for Request 3:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 3: 4 ms
+Response for Request 4:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 4: 5 ms
+Response for Request 2:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 2: 8 ms
+Response for Request 5:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 5: 4 ms
+Response for Request 7:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 7: 2 ms
+Response for Request 8:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 8: 4 ms
+Response for Request 9:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 9: 4 ms
+Response for Request 10:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 10: 6 ms
+Response for Request 11:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 11: 5 ms
+Response for Request 12:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 12: 6 ms
+Response for Request 13:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 13: 7 ms
+Response for Request 14:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 14: 8 ms
+Response for Request 15:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 15: 9 ms
+Response for Request 16:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 16: 10 ms
+Response for Request 17:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 17: 12 ms
+Response for Request 18:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 18: 13 ms
+Response for Request 19:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 19: 12 ms
+Response for Request 21:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 21: 14 ms
+Response for Request 20:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 20: 15 ms
+Response for Request 23:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 23: 15 ms
+Response for Request 22:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 22: 17 ms
+Response for Request 24:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 24: 18 ms
+Response for Request 6:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 6: 19 ms
+Response for Request 25:               total        used        free      shared  buff/cache   available
+Turn-around time for Request 25: 20 ms
+Total Turn-around Time: 240 ms
+Average Turn-around Time: 9.6 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 4
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 1: Active Internet connections (w/o servers)
+Turn-around time for Request 1: 2435 ms
+Response for Request 3: Active Internet connections (w/o servers)
+Turn-around time for Request 3: 4713 ms
+Response for Request 4: Active Internet connections (w/o servers)
+Turn-around time for Request 4: 6732 ms
+Response for Request 2: Active Internet connections (w/o servers)
+Turn-around time for Request 2: 8962 ms
+Response for Request 6: Active Internet connections (w/o servers)
+Turn-around time for Request 6: 11012 ms
+Response for Request 5: Active Internet connections (w/o servers)
+Turn-around time for Request 5: 13061 ms
+Response for Request 7: Active Internet connections (w/o servers)
+Turn-around time for Request 7: 15179 ms
+Response for Request 8: Active Internet connections (w/o servers)
+Turn-around time for Request 8: 17362 ms
+Response for Request 9: Active Internet connections (w/o servers)
+Turn-around time for Request 9: 19548 ms
+Response for Request 10: Active Internet connections (w/o servers)
+Turn-around time for Request 10: 21888 ms
+Response for Request 11: Active Internet connections (w/o servers)
+Turn-around time for Request 11: 24224 ms
+Response for Request 13: Active Internet connections (w/o servers)
+Turn-around time for Request 13: 26353 ms
+Response for Request 12: Active Internet connections (w/o servers)
+Turn-around time for Request 12: 28515 ms
+Response for Request 15: Active Internet connections (w/o servers)
+Turn-around time for Request 15: 30656 ms
+Response for Request 14: Active Internet connections (w/o servers)
+Turn-around time for Request 14: 32719 ms
+Response for Request 17: Active Internet connections (w/o servers)
+Turn-around time for Request 17: 34837 ms
+Response for Request 16: Active Internet connections (w/o servers)
+Turn-around time for Request 16: 36908 ms
+Response for Request 18: Active Internet connections (w/o servers)
+Turn-around time for Request 18: 39182 ms
+Response for Request 20: Active Internet connections (w/o servers)
+Turn-around time for Request 20: 41537 ms
+Response for Request 19: Active Internet connections (w/o servers)
+Turn-around time for Request 19: 43659 ms
+Response for Request 21: Active Internet connections (w/o servers)
+Turn-around time for Request 21: 45803 ms
+Response for Request 23: Active Internet connections (w/o servers)
+Turn-around time for Request 23: 47985 ms
+Response for Request 22: Active Internet connections (w/o servers)
+Turn-around time for Request 22: 50233 ms
+Response for Request 24: Active Internet connections (w/o servers)
+Turn-around time for Request 24: 53426 ms
+Response for Request 25: Active Internet connections (w/o servers)
+Turn-around time for Request 25: 56603 ms
+Total Turn-around Time: 713532 ms
+Average Turn-around Time: 28541.28 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 5
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 2: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 2: 9 ms
+Response for Request 1: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 1: 18 ms
+Response for Request 3: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 3: 19 ms
+Response for Request 4: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 4: 20 ms
+Response for Request 5: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 5: 21 ms
+Response for Request 6: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 6: 22 ms
+Response for Request 7: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 7: 22 ms
+Response for Request 8: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 8: 23 ms
+Response for Request 10: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 10: 24 ms
+Response for Request 9: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 9: 25 ms
+Response for Request 11: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 11: 24 ms
+Response for Request 12: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 12: 25 ms
+Response for Request 13: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 13: 25 ms
+Response for Request 14: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 14: 26 ms
+Response for Request 15: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 15: 27 ms
+Response for Request 16: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 16: 28 ms
+Response for Request 17: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 17: 28 ms
+Response for Request 18: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 18: 29 ms
+Response for Request 19: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 19: 30 ms
+Response for Request 21: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 21: 31 ms
+Response for Request 20: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 20: 32 ms
+Response for Request 22: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 22: 32 ms
+Response for Request 23: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 23: 33 ms
+Response for Request 24: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 24: 34 ms
+Response for Request 25: UNFCSD\n01546500 pts/7        2023-08-02 21:52 (tmux(20747).%0)
+Turn-around time for Request 25: 35 ms
+Total Turn-around Time: 642 ms
+Average Turn-around Time: 25.68 ms
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 6
+Enter the number of times to run the command: [1, 5, 10, 15, 20, 25]25
+Response for Request 1: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 1: 55 ms
+Response for Request 3: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 3: 81 ms
+Response for Request 2: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 2: 109 ms
+Response for Request 4: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 4: 142 ms
+Response for Request 6: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 6: 186 ms
+Response for Request 5: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 5: 227 ms
+Response for Request 7: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 7: 255 ms
+Response for Request 9: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 9: 282 ms
+Response for Request 8: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 8: 309 ms
+Response for Request 10: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 10: 336 ms
+Response for Request 12: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 12: 361 ms
+Response for Request 11: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 11: 396 ms
+Response for Request 14: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 14: 431 ms
+Response for Request 13: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 13: 462 ms
+Response for Request 16: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 16: 488 ms
+Response for Request 15: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 15: 514 ms
+Response for Request 18: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 18: 539 ms
+Response for Request 17: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 17: 565 ms
+Response for Request 20: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 20: 591 ms
+Response for Request 19: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 19: 618 ms
+Response for Request 25: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 25: 642 ms
+Response for Request 24: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 24: 668 ms
+Response for Request 21: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 21: 694 ms
+Response for Request 23: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 23: 718 ms
+Response for Request 22: UID        PID  PPID  C STIME TTY          TIME CMD
+Turn-around time for Request 22: 743 ms
+Total Turn-around Time: 10412 ms
+Average Turn-around Time: 416.48 ms
+
+
+
+
+
+Select a command to run:
+1. Date and Time
+2. Uptime
+3. Memory Use
+4. Netstat
+5. Current Users
+6. Running Processes
+7. Exit
+Enter command number: 7
+Exiting client.
+
