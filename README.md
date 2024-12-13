@@ -38,11 +38,11 @@ The source code, as well as any other software required, of the client and serve
 
 Report 
 
-Describe the purpose of the project in your own words
-Describe the goals of the project in your own words
-Introduce readers to what they will find in the remaining sections of the paper
+Described the purpose of the project
+Described the goals of the project
+Introduced readers to what they will find in the remaining sections of the paper
 Client-Server Setup and Configuration
-Describe the design of the Client and Server programs
+Described the design of the Client and Server programs
 Discussed the design decisions that were made
 Explained the basic operation of the Client and Server programs
 Testing and Data Collection
